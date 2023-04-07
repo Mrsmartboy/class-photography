@@ -1,0 +1,33 @@
+.gallery-container {
+  background-color: #ffffff;
+  min-height: 100vh;
+  padding: 40px;
+  width: 100%;
+}
+
+.image-url {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.heading {
+  color: #1e293b;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.para {
+  color: #64748b;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.list-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  padding-left: 0px;
+  flex-wrap: wrap;
+}
